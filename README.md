@@ -1,4 +1,4 @@
-XYW
+XYZ
 
 Here is just a very basic coordinates plugin for the new API.
 
