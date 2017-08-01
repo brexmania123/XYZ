@@ -42,7 +42,9 @@ class xyz extends PluginBase {
                 else{
                     $sender->sendMessage("This command only works in-game.");
                 }
+                return true;
         }
+        return true;
     }
 
 
